@@ -1,7 +1,8 @@
 # NandGame
 ---
 ### Nandgame is a game designed by Olav Junker Kjær to teach the fundamental principles of computing, using components as building blocks into a full computer.
-<img width="1009" alt="image" src="https://github.com/DrewSkelton/NandGameNotes/assets/143658327/5ead785c-e898-4e4b-ab52-71cb574ae883">
+<img width="1009" alt="image" src="<img width="880" alt="image" src="https://github.com/user-attachments/assets/d0106ad3-1822-4867-8e0b-93f3444983f4">
+">
 
 # Notes
 ---
